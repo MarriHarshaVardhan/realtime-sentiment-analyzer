@@ -1,5 +1,6 @@
 # realtime-sentiment-analyzer
-Real-Time Sentiment Analysis Web App 🧐
+Real-Time Sentiment Analysis Web App
+
 Project Title
 Real-Time Sentiment Analysis Web App
 
@@ -22,7 +23,7 @@ Open Google Colab: Go to https://colab.research.google.com/ and create a new not
 
 Install Dependencies: In the first cell, run the following commands to install all required libraries:
 
-Bash
+
 
 !pip install flask
 !pip install transformers
