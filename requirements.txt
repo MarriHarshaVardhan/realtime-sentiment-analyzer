@@ -1,0 +1,4 @@
+flask
+transformers
+torch # or tensorflow, depending on transformers backend
+ngrok # if you include the ngrok setup in your colab notebook
